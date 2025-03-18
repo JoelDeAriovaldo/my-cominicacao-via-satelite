@@ -961,7 +961,7 @@ const SatellitePresentation = () => {
                         <div className="text-xs sm:text-sm lg:text-base text-gray-600 order-1 sm:order-2 text-center sm:text-right">
                             <p className="font-medium">Redes sem fios</p>
                             <p>Docente: Eng. Felix Macueia | Engenharia informatica - 4 Ano</p>
-                            <p>Grupo 2: Bruna Alexandra, Miriwa, Joel Romao | Março, 2025</p>
+                            <p>Grupo 2: Bruna Inácio Alexandra de Massada, Miriua Orlando Alberto, Joel De Ariovaldo D. F. Romao | Março, 2025</p>
                         </div>
                     </div>
                 </div>
